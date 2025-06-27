@@ -50,7 +50,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/nakul-jain-79b735261/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/nakuljain-git)
 [![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:nakuljain2712@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&style=for-the-badge&logoColor=black)](https://leetcode.com/guardiancpp)
 ---
 
 ⚡ **Fun Fact:** I debug faster with music 🎧 and coffee ☕.
