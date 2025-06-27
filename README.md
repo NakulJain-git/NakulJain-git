@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakul Jain</h1>
-<h3 align="center">Full-Stack Developer | DSA Enthusiast /h3>
+<h3 align="center">Full-Stack Developer | DSA Enthusiast </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
